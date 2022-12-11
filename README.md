@@ -1,3 +1,8 @@
+dict-like sqlite wrapper
+
+`pip install sqd`
+
+
 ```python
 from sqd import SQD
 from random import randint
@@ -54,4 +59,5 @@ for x in bot:
 # x7
 # x8
 # x11
-# x12```
+# x12
+```
