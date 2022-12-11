@@ -6,11 +6,12 @@ setup(
     version='0.0.1',
     license='MIT',
     author='xllwhoami',
+    description='Go to homepage',
     author_email='xllwhoami@ukr.net',
     packages=find_packages('sqd'),
     package_dir={'': 'sqd'},
     url='https://github.com/xllwhoami/sqd',
-    keywords='sqlite db coinfig database lite',
+    keywords='sqlite db config database lite',
     install_requires=[],
 
 )
